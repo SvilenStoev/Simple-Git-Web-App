@@ -1,4 +1,4 @@
-Simple Git web application, which supports database. Started on localhost and port using simple Http server, created during education in "C# web basic" module in SoftUni.
+Simple Git web application with database. Started on localhost and port using simple Http server, created for educational purposes during "C# web basic" module in SoftUni.
 The web application supports several pages:
 - Register page with username, password and email;
 - Login page with login functionality using already registered Username and Password;
